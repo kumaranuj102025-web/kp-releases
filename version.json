@@ -1,5 +1,5 @@
 {
-  "version": "0.1.5",
+  "version": "0.1.6",
   "downloadUrl": "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.1.6/KP.App_0.1.6.0_x64.msix",
   "notes": "FIX: Share Screen dabane par capture dialog khulta hi nahi tha ('KP could not open the Windows capture dialog'). Ab picker sahi khulega. Sath me default model ab free-tier friendly flash-lite hai."
 }
