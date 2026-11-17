@@ -1,5 +1,5 @@
 {
   "version": "0.1.5",
-  "downloadUrl": "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.1.5/KP.App_0.1.5.0_x64.msix",
-  "notes": "FIX: chat me messages ki jagah 'KP.App.ViewModels.ChatBubbleViewModel' likha aa raha tha. Jawab aa rahe the par dikh nahi rahe the. Ab bubbles sahi render honge."
+  "downloadUrl": "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.1.6/KP.App_0.1.6.0_x64.msix",
+  "notes": "FIX: Share Screen dabane par capture dialog khulta hi nahi tha ('KP could not open the Windows capture dialog'). Ab picker sahi khulega. Sath me default model ab free-tier friendly flash-lite hai."
 }
