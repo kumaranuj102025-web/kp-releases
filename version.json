@@ -1,0 +1,5 @@
+{
+  "version": "0.1.3",
+  "downloadUrl": "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.1.3/KP.App_0.1.3.0_x64.msix",
+  "notes": "Auto-update system: KP ab khud naya version check karta hai aur ek click mein update ho jata hai. Sath me v0.1.2 fixes (API key live verify, model dropdown, instant theme, Hinglish messages)."
+}
