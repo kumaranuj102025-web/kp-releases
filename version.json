@@ -1,5 +1,5 @@
 {
-  "version": "0.1.8",
-  "downloadUrl": "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.1.8/KP.App_0.1.8.0_x64.msix",
-  "notes": "FIX: Share Screen ka 'Access is denied' hat gaya — Windows ki capture permission (capability + consent) ab app me hai. PEHLI baar Share Screen dabane par Windows ka prompt aayega — Yes/Allow chunna, phir hamesha ke liya set ho jayega."
+  "version": "0.1.9",
+  "downloadUrl": "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.1.9/KP.App_0.1.9.0_x64.msix",
+  "notes": "FIX: (1) Screen share 'capture shuru nahi ho paya' — frame pool race + threading fix, 6s wait, auto-retry; error me ab real technical code (0x…) dikhega. (2) Voice 'mic check karke dobara try karo' — en-US fallback recognizer + lambe silences + real code. (3) Corner buttons ka jump — Windows ke duplicate min/max/close hata diye, ab sirf KP ke apne buttons."
 }
