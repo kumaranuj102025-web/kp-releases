@@ -1,5 +1,5 @@
 {
-    "version":  "0.2.1",
-    "downloadUrl":  "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.1/KP.App_0.2.1.0_x64.msix",
-    "notes":  "KP v0.2.1: Definitive fix for Screen Share (0x88982F8E PropertyType.Single fix + PNG fallback) \u0026 Voice Settings auto-launch!"
+    "version":  "0.2.2",
+    "downloadUrl":  "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.2/KP.App_0.2.2.0_x64.msix",
+    "notes":  "KP v0.2.2 — Always-on-top floating persistence and voice/mic lifecycle fix."
 }
