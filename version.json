@@ -1,5 +1,5 @@
 {
-  "version": "0.1.9",
-  "downloadUrl": "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.1.9/KP.App_0.1.9.0_x64.msix",
-  "notes": "FIX: (1) Screen share 'capture shuru nahi ho paya' — frame pool race + threading fix, 6s wait, auto-retry; error me ab real technical code (0x…) dikhega. (2) Voice 'mic check karke dobara try karo' — en-US fallback recognizer + lambe silences + real code. (3) Corner buttons ka jump — Windows ke duplicate min/max/close hata diye, ab sirf KP ke apne buttons."
+    "version":  "0.2.0",
+    "downloadUrl":  "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.0/KP.App_0.2.0.0_x64.msix",
+    "notes":  "v0.2.0: Screen Share fix (0x88982F8E solved), Double-tap Ctrl Hotkey, Context-Aware Quote from Word/Excel/PPT/browser, Local Ollama VLM vision, and Chat Persistence!"
 }
