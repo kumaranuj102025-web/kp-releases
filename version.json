@@ -1,5 +1,5 @@
 {
-    "version":  "0.2.14",
-    "downloadUrl":  "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.14/KP.App_0.2.14.0_x64.msix",
-    "notes":  "KP v0.2.14 — Double-tap Ctrl summon optimization and minimized window restoration."
+    "version":  "0.2.15",
+    "downloadUrl":  "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.15/KP.App_0.2.15.0_x64.msix",
+    "notes":  "KP v0.2.15 — Safe Autonomous Desktop Control Engine (Phase 1): App launching, Volume control, Web navigation, and Safety Guards."
 }
