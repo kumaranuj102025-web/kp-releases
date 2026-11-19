@@ -1,5 +1,5 @@
 {
-    "version":  "0.2.21",
-    "downloadUrl":  "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.21/KP.App_0.2.21.0_x64.msix",
-    "notes":  "KP v0.2.21 — Full Gemini Reasoning, Fast Mic Cutoff (0.8s), Instant Clipboard Document Typing (Leave applications, letters), and YouTube visual navigation."
+    "version":  "0.2.22",
+    "downloadUrl":  "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.22/KP.App_0.2.22.0_x64.msix",
+    "notes":  "KP v0.2.22 — Nested Bracket Action Parser Fix, Clean Document Typing (Chat confirms, Word gets full letter), and Speak Stop Toggle."
 }
