@@ -1,5 +1,5 @@
 {
-    "version":  "0.2.18",
-    "downloadUrl":  "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.18/KP.App_0.2.18.0_x64.msix",
-    "notes":  "KP v0.2.18 — 100% Hands-Free Voice Control: \u0027KP\u0027 Wake Word activation, auto-close on silence, mouse wheel scrolling, WhatsApp Web shortcut, and graceful app close."
+    "version":  "0.2.19",
+    "downloadUrl":  "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.19/KP.App_0.2.19.0_x64.msix",
+    "notes":  "KP v0.2.19 — Reliable Multi-Turn Wake Word: Recreates recognition session cleanly on each cycle, high sensitivity speech calibration, and phonetic accent matching."
 }
