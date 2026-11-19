@@ -1,5 +1,5 @@
 {
-    "version":  "0.2.17",
-    "downloadUrl":  "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.17/KP.App_0.2.17.0_x64.msix",
-    "notes":  "KP v0.2.17 — Autonomous Desktop Control Phase 2: Mouse clicks, text typing, keyboard combos, and real-time physical override."
+    "version":  "0.2.18",
+    "downloadUrl":  "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.18/KP.App_0.2.18.0_x64.msix",
+    "notes":  "KP v0.2.18 — 100% Hands-Free Voice Control: \u0027KP\u0027 Wake Word activation, auto-close on silence, mouse wheel scrolling, WhatsApp Web shortcut, and graceful app close."
 }
