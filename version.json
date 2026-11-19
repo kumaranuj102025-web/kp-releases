@@ -1,5 +1,5 @@
 {
-    "version":  "0.2.19",
-    "downloadUrl":  "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.19/KP.App_0.2.19.0_x64.msix",
-    "notes":  "KP v0.2.19 — Reliable Multi-Turn Wake Word: Recreates recognition session cleanly on each cycle, high sensitivity speech calibration, and phonetic accent matching."
+    "version":  "0.2.20",
+    "downloadUrl":  "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.20/KP.App_0.2.20.0_x64.msix",
+    "notes":  "KP v0.2.20 — Autonomous Multi-Step Action Engine: Chains multiple actions sequentially (select+delete+type), extended keyboard keys (Delete, arrows), desktop shortcut resolver (Rojgar With Ankit, etc.), and desktop display perception."
 }
