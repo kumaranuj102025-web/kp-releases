@@ -1,5 +1,5 @@
 {
-    "version":  "0.2.24",
-    "downloadUrl":  "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.24/KP.App_0.2.24.0_x64.msix",
-    "notes":  "KP v0.2.24 — Pinpoint Mouse Window Mapping, Physical Override Baseline Reset, Deep Word/Dialog Control, and Dynamic Shortcuts."
+    "version":  "0.2.25",
+    "downloadUrl":  "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.25/KP.App_0.2.25.0_x64.msix",
+    "notes":  "KP v0.2.25 — Autonomous Closed-Loop ReAct Engine, Native Windows UI Automation (MSAA), Word Zoom \u0026 Dialog Resolvers."
 }
