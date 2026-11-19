@@ -1,5 +1,5 @@
 {
-    "version":  "0.2.12",
-    "downloadUrl":  "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.12/KP.App_0.2.12.0_x64.msix",
-    "notes":  "KP v0.2.12 — Voice speech truncation bug fixed; speech now completes smoothly without cutting off."
+    "version":  "0.2.13",
+    "downloadUrl":  "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.13/KP.App_0.2.13.0_x64.msix",
+    "notes":  "KP v0.2.13 — Sleek vertical header spacing \u0026 Window Transparency Opacity Slider in Settings."
 }
