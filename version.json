@@ -1,5 +1,5 @@
 {
-    "version":  "0.2.8",
-    "downloadUrl":  "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.8/KP.App_0.2.8.0_x64.msix",
-    "notes":  "KP v0.2.8 — Fixed header icons layout and button alignment."
+    "version":  "0.2.9",
+    "downloadUrl":  "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.9/KP.App_0.2.9.0_x64.msix",
+    "notes":  "KP v0.2.9 — Restored purple star logo and active square maximize button."
 }
