@@ -1,5 +1,5 @@
 {
-    "version": "0.2.30",
-    "downloadUrl": "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.30/KP.App_0.2.30.0_x64.msix",
-    "notes": "KP v0.2.30 (Phase 2) \u2014 Planning Brain (create_plan / update_plan_step), live UI checklist, FailureMemory anti-repeat guard, dynamic up-to-40 step budget, and strict checklist VerificationGate."
+    "version": "0.2.31",
+    "downloadUrl": "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.31/KP.App_0.2.31.0_x64.msix",
+    "notes": "KP v0.2.31 (Phase 2 MS Store/UWP Fix) \u2014 Microsoft Store/UWP window readiness, deeper WinUI3 UIA3 inspection, focus-before-click, and wait tool."
 }
