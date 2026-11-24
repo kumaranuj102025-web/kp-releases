@@ -1,5 +1,5 @@
 {
-    "version": "0.2.28",
-    "downloadUrl": "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.28/KP.App_0.2.28.0_x64.msix",
-    "notes": "KP v0.2.28 — Phase 1 Foundation: Exact Capture-to-Click Bounds, Native Gemini Function Calling, Modern UIA3 COM & Strict Truth Layer."
+    "version": "0.2.29",
+    "downloadUrl": "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.29/KP.App_0.2.29.0_x64.msix",
+    "notes": "KP v0.2.29 — Block Turn-0 & OPEN_APP fake completions, smart Office launch wait, reliable focus & 160x90 VisualDiff."
 }
