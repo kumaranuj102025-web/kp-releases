@@ -1,5 +1,5 @@
 {
-    "version": "0.2.32",
-    "downloadUrl": "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.32/KP.App_0.2.32.0_x64.msix",
-    "notes": "KP v0.2.32 (Phase 3: Human-Like Speed & Universal Controls) \u2014 Smart wait polling, fast-lite text routing, adaptive screenshot sizing, action batching, and hover/drag/switch_window/panel-targeted scroll."
+    "version": "0.2.33",
+    "downloadUrl": "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.33/KP.App_0.2.33.0_x64.msix",
+    "notes": "KP v0.2.33 \u2014 ImageEncoder scaling lifecycle fix, Gemini HTTP retry + DNS pooling, fast-lite fallback hardening, and clear error diagnostics."
 }
