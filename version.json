@@ -1,5 +1,5 @@
 {
-    "version": "0.2.34",
-    "downloadUrl": "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.34/KP.App_0.2.34.0_x64.msix",
-    "notes": "KP v0.2.34 — First-launch hands-free wake word fix (no initial mic click needed), self-healing wake listener, Devanagari multi-step & multi-reply completion gating, full run-timeline memory, and smart patient waiting up to 30s."
+    "version": "0.2.35",
+    "downloadUrl": "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.35/KP.App_0.2.35.0_x64.msix",
+    "notes": "KP v0.2.35 — Phase 4 Adobe Animate CC Master: JSFL scripting engine + ES3 JSON proof harness, Animate.exe auto-discovery, full Animate shortcuts (F5/F6/F7/F8/Ctrl+Enter/tools), and end-to-end Animate playbook."
 }
