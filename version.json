@@ -1,5 +1,5 @@
 {
-    "version": "0.2.33",
-    "downloadUrl": "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.33/KP.App_0.2.33.0_x64.msix",
-    "notes": "KP v0.2.33 \u2014 ImageEncoder scaling lifecycle fix, Gemini HTTP retry + DNS pooling, fast-lite fallback hardening, and clear error diagnostics."
+    "version": "0.2.34",
+    "downloadUrl": "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.34/KP.App_0.2.34.0_x64.msix",
+    "notes": "KP v0.2.34 — First-launch hands-free wake word fix (no initial mic click needed), self-healing wake listener, Devanagari multi-step & multi-reply completion gating, full run-timeline memory, and smart patient waiting up to 30s."
 }
