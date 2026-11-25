@@ -1,5 +1,5 @@
 {
-    "version": "0.2.31",
-    "downloadUrl": "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.31/KP.App_0.2.31.0_x64.msix",
-    "notes": "KP v0.2.31 (Phase 2 MS Store/UWP Fix) \u2014 Microsoft Store/UWP window readiness, deeper WinUI3 UIA3 inspection, focus-before-click, and wait tool."
+    "version": "0.2.32",
+    "downloadUrl": "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.32/KP.App_0.2.32.0_x64.msix",
+    "notes": "KP v0.2.32 (Phase 3: Human-Like Speed & Universal Controls) \u2014 Smart wait polling, fast-lite text routing, adaptive screenshot sizing, action batching, and hover/drag/switch_window/panel-targeted scroll."
 }
