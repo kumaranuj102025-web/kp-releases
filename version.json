@@ -1,5 +1,5 @@
 {
-    "version": "0.2.36",
-    "downloadUrl": "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.36/KP.App_0.2.36.0_x64.msix",
-    "notes": "KP v0.2.36 — Auto-confirms Adobe Animate JSFL prompt ('Don't show again' + 'Run as command'), captures active modal popup dialogs cleanly, and eliminates blinking retry loops."
+  "version": "0.2.37",
+  "downloadUrl": "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.37/KP.App_0.2.37.0_x64.msix",
+  "notes": "Adobe Animate JSFL popup permanent fix (-AlwaysRunJSFL + offline Windows OCR auto-confirm for 'Don't show again' & 'Run as command' + modal dialog capture fix)."
 }
