@@ -1,5 +1,5 @@
 {
-  "version": "0.2.38",
-  "downloadUrl": "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.38/KP.App_0.2.38.0_x64.msix",
-  "notes": "Fixed Turn 2+ voice action-drop bug ('\u0920\u0940\u0915 \u0939\u0948, \u092e\u0948\u0902 \u092f\u0939 \u0915\u093e\u092e \u0915\u0930 \u0930\u0939\u093e \u0939\u0942\u0901' stall), added ForceToolCall (mode=ANY) recovery & history compaction across all apps, and added native animate_clear_stage tool so clearing an Animate stage never opens duplicate tabs."
+  "version": "0.2.39",
+  "downloadUrl": "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.39/KP.App_0.2.39.0_x64.msix",
+  "notes": "v0.2.39: KP Pro Animate Studio Engine (real rigged walk/run/talk/lip-sync characters, 8 layered cartoon scenes, editable SVG & audio import, multi-frame preview) + Free-Tier Quota Shield."
 }
