@@ -1,5 +1,5 @@
 {
-    "version":  "0.2.42",
-    "downloadUrl":  "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.42/KP.App_0.2.42.0_x64.msix",
-    "notes":  "KP v0.2.42 — Fixed detached limbs (el.setTransformationPoint({x:0,y:0}) + motionTweenSnap=false), added slip_fall comedy action \u0026 Story/Comedy Director rules."
+    "version":  "0.2.43",
+    "downloadUrl":  "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.43/KP.App_0.2.43.0_x64.msix",
+    "notes":  "KP v0.2.43 — Universal 2D Animator Craft (rossark-motion + dylantarre + LottieFiles), native .fla rig import, and zero placeholder seeder."
 }
