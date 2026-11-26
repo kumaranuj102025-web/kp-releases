@@ -1,5 +1,5 @@
 {
-  "version": "0.2.40",
-  "downloadUrl": "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.40/KP.App_0.2.40.0_x64.msix",
-  "notes": "v0.2.40: Strict Listen-First Intent Obedience (zero unrequested backgrounds/lip-sync), curved Bezier 13-layer 2-joint articulated FK puppets (bent knees & elbows, zero detached joints), and universal zero-dialog modular vector/layer animator tools for any custom character or object."
+    "version":  "0.2.41",
+    "downloadUrl":  "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.41/KP.App_0.2.41.0_x64.msix",
+    "notes":  "KP v0.2.41 — Pro 2D Animator Skill (SKILL.md), Auto-Seeded SVG/Viseme Library (Documents/KP_Animate/Library), Ground-Locked Walk/Run FK \u0026 Tween Easing."
 }
