@@ -1,5 +1,5 @@
 {
-    "version":  "0.2.41",
-    "downloadUrl":  "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.41/KP.App_0.2.41.0_x64.msix",
-    "notes":  "KP v0.2.41 — Pro 2D Animator Skill (SKILL.md), Auto-Seeded SVG/Viseme Library (Documents/KP_Animate/Library), Ground-Locked Walk/Run FK \u0026 Tween Easing."
+    "version":  "0.2.42",
+    "downloadUrl":  "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.42/KP.App_0.2.42.0_x64.msix",
+    "notes":  "KP v0.2.42 — Fixed detached limbs (el.setTransformationPoint({x:0,y:0}) + motionTweenSnap=false), added slip_fall comedy action \u0026 Story/Comedy Director rules."
 }
