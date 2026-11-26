@@ -1,5 +1,5 @@
 {
-  "version": "0.2.39",
-  "downloadUrl": "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.39/KP.App_0.2.39.0_x64.msix",
-  "notes": "v0.2.39: KP Pro Animate Studio Engine (real rigged walk/run/talk/lip-sync characters, 8 layered cartoon scenes, editable SVG & audio import, multi-frame preview) + Free-Tier Quota Shield."
+  "version": "0.2.40",
+  "downloadUrl": "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.40/KP.App_0.2.40.0_x64.msix",
+  "notes": "v0.2.40: Strict Listen-First Intent Obedience (zero unrequested backgrounds/lip-sync), curved Bezier 13-layer 2-joint articulated FK puppets (bent knees & elbows, zero detached joints), and universal zero-dialog modular vector/layer animator tools for any custom character or object."
 }
