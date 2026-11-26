@@ -1,5 +1,5 @@
 {
-    "version": "0.2.35",
-    "downloadUrl": "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.35/KP.App_0.2.35.0_x64.msix",
-    "notes": "KP v0.2.35 — Phase 4 Adobe Animate CC Master: JSFL scripting engine + ES3 JSON proof harness, Animate.exe auto-discovery, full Animate shortcuts (F5/F6/F7/F8/Ctrl+Enter/tools), and end-to-end Animate playbook."
+    "version": "0.2.36",
+    "downloadUrl": "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.36/KP.App_0.2.36.0_x64.msix",
+    "notes": "KP v0.2.36 — Auto-confirms Adobe Animate JSFL prompt ('Don't show again' + 'Run as command'), captures active modal popup dialogs cleanly, and eliminates blinking retry loops."
 }
