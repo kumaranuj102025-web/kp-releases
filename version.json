@@ -1,5 +1,5 @@
 {
-    "version":  "0.2.43",
-    "downloadUrl":  "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.43/KP.App_0.2.43.0_x64.msix",
-    "notes":  "KP v0.2.43 — Universal 2D Animator Craft (rossark-motion + dylantarre + LottieFiles), native .fla rig import, and zero placeholder seeder."
+    "version":  "0.2.45",
+    "downloadUrl":  "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.45/KP.App_0.2.45.0_x64.msix",
+    "notes":  "KP v0.2.45 — Fixed CapabilityProbe gradient_fill (getCustomFill + posArray + matrix) \u0026 shape_tween so Adobe Animate 2022 completes all 13 probes cleanly."
 }
