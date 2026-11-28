@@ -1,5 +1,5 @@
 {
-    "version":  "0.2.57",
-    "downloadUrl":  "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.57/KP.App_0.2.57.0_x64.msix",
-    "notes":  "KP v0.2.57 — Auto-retry empty addItemToDocument layers \u0026 keep lower limbs attached in kpChainLimb."
+    "version":  "0.2.58",
+    "downloadUrl":  "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.58/KP.App_0.2.58.0_x64.msix",
+    "notes":  "KP v0.2.58 — Natural biomechanical sit/bend segments, angle-sign guidance, and auto-dismiss OLE popup."
 }
