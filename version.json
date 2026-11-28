@@ -1,5 +1,5 @@
 {
-    "version":  "0.2.50",
-    "downloadUrl":  "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.50/KP.App_0.2.50.0_x64.msix",
-    "notes":  "KP v0.2.50 — Fixed LipSyncBuilder missing kpSetStyle helper \u0026 added exit-edit-mode isolation so lip-sync and layer animation never trigger \u0027You cannot place a symbol inside itself\u0027."
+    "version":  "0.2.51",
+    "downloadUrl":  "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.51/KP.App_0.2.51.0_x64.msix",
+    "notes":  "KP v0.2.51 — Full Forward-Kinematics animation (walk/run/wave/talk/jump/idle) built directly into animate_import_rig_folder for DreamToon_Style \u0026 FrameOrder_Style rigs."
 }
