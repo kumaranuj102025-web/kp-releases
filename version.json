@@ -1,5 +1,5 @@
 {
-    "version":  "0.2.47",
-    "downloadUrl":  "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.47/KP.App_0.2.47.0_x64.msix",
-    "notes":  "KP v0.2.47 — Fixed CapabilityProbe addNewItem(type,name) arg order, mask/folder layer ordering, copy/paste normal layer, and gradient getCustomFill(\u0027selection\u0027)."
+    "version":  "0.2.48",
+    "downloadUrl":  "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.48/KP.App_0.2.48.0_x64.msix",
+    "notes":  "KP v0.2.48 — Sprint 1 Rig v2 \u0026 Real Graphic Viseme Lip-Sync (8-frame Rhubarb A-H Graphic Symbol mouth swapping + universal animate_apply_lip_sync tool)."
 }
