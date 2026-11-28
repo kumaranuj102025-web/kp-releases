@@ -1,5 +1,5 @@
 {
-    "version":  "0.2.58",
-    "downloadUrl":  "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.58/KP.App_0.2.58.0_x64.msix",
-    "notes":  "KP v0.2.58 — Natural biomechanical sit/bend segments, angle-sign guidance, and auto-dismiss OLE popup."
+    "version":  "0.2.59",
+    "downloadUrl":  "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.59/KP.App_0.2.59.0_x64.msix",
+    "notes":  "KP v0.2.59 — Fix 4 Critical Animation \u0026 Import Issues\n\n- FK Chain relative rotation: lower limb now properly follows upper limb rotation instead of being absolute to torso\n- SVG transform support: added matrix(a,b,c,d,e,f), skewX, skewY alongside translate/rotate/scale\n- W3C Named colors: expanded from 18 to all 148 standard SVG colors (no more transparent shapes)\n- Role classifier alignment: C# now recognizes forearm, fa, shin, and keeps eyes/mouth separate from face"
 }
