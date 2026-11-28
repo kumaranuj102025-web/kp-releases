@@ -1,5 +1,5 @@
 {
-    "version":  "0.2.53",
-    "downloadUrl":  "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.53/KP.App_0.2.53.0_x64.msix",
-    "notes":  "KP v0.2.53 — Native SVG linear/radial gradients, 3-4x faster direct Library symbols, true hip/wrist pivots, and clean multi-beat timeline."
+    "version":  "0.2.54",
+    "downloadUrl":  "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.54/KP.App_0.2.54.0_x64.msix",
+    "notes":  "KP v0.2.54 — Full SVG Arc (A/a) command support + exact compiler bounds so DreamToon knees/elbows/hips align with zero detachment."
 }
