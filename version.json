@@ -1,5 +1,5 @@
 {
-    "version":  "0.2.52",
-    "downloadUrl":  "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.52/KP.App_0.2.52.0_x64.msix",
-    "notes":  "KP v0.2.52 — Universal Pose-to-Pose FK Director (animate_pose_rig) \u0026 Camera Animator (animate_camera) for multi-beat, preset-free animation."
+    "version":  "0.2.53",
+    "downloadUrl":  "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.53/KP.App_0.2.53.0_x64.msix",
+    "notes":  "KP v0.2.53 — Native SVG linear/radial gradients, 3-4x faster direct Library symbols, true hip/wrist pivots, and clean multi-beat timeline."
 }
