@@ -1,5 +1,5 @@
 {
-    "version":  "0.2.49",
-    "downloadUrl":  "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.49/KP.App_0.2.49.0_x64.msix",
-    "notes":  "KP v0.2.49 — Auto Library Discovery (DreamToon_Style / FrameOrder_Style) + animate_list_library + animate_import_rig_folder."
+    "version":  "0.2.50",
+    "downloadUrl":  "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.50/KP.App_0.2.50.0_x64.msix",
+    "notes":  "KP v0.2.50 — Fixed LipSyncBuilder missing kpSetStyle helper \u0026 added exit-edit-mode isolation so lip-sync and layer animation never trigger \u0027You cannot place a symbol inside itself\u0027."
 }
