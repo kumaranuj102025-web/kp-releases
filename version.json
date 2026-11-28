@@ -1,5 +1,5 @@
 {
-    "version":  "0.2.51",
-    "downloadUrl":  "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.51/KP.App_0.2.51.0_x64.msix",
-    "notes":  "KP v0.2.51 — Full Forward-Kinematics animation (walk/run/wave/talk/jump/idle) built directly into animate_import_rig_folder for DreamToon_Style \u0026 FrameOrder_Style rigs."
+    "version":  "0.2.52",
+    "downloadUrl":  "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.52/KP.App_0.2.52.0_x64.msix",
+    "notes":  "KP v0.2.52 — Universal Pose-to-Pose FK Director (animate_pose_rig) \u0026 Camera Animator (animate_camera) for multi-beat, preset-free animation."
 }
