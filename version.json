@@ -1,5 +1,5 @@
 {
-    "version":  "0.2.54",
-    "downloadUrl":  "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.54/KP.App_0.2.54.0_x64.msix",
-    "notes":  "KP v0.2.54 — Full SVG Arc (A/a) command support + exact compiler bounds so DreamToon knees/elbows/hips align with zero detachment."
+    "version":  "0.2.55",
+    "downloadUrl":  "https://github.com/kumaranuj102025-web/kp-releases/releases/download/v0.2.55/KP.App_0.2.55.0_x64.msix",
+    "notes":  "KP v0.2.55 — Per-layer background pack importer (zero Animate crashes), adaptive SVG curve sampling, and multi-beat pose enforcement."
 }
